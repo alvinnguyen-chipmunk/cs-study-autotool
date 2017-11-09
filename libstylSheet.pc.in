@@ -1,0 +1,14 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+datarootdir=@datarootdir@
+datadir=@datadir@
+localedir=@localedir@
+
+Name: STYL SHEET
+Description: A library to get create a exel file
+Requires: glib-2.0
+Version: @VERSION@
+Libs: -lstylSheet -L${libdir}
+Cflags: -I${includedir}/libstylSheet

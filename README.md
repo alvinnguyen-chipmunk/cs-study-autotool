@@ -1,2 +1,2 @@
-# cs-study-autotool
-Simple repository for Autotool study
+# cs-autotool-study
+A simple Autotool project for study.
